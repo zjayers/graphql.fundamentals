@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="999358ac-e3cf-423f-b008-264970c9ea3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1jjpIAWsisYElAkoK1EVNsj7PtX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.5.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.6" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="999358ac-e3cf-423f-b008-264970c9ea3a" name="Default Changelist" comment="" />
+      <created>1604327273643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604327273643</updated>
+      <workItem from="1604327278747" duration="4000" />
+      <workItem from="1604327296154" duration="9685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="116" key="#JavaScript" timestamp="1604328582488">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="303" y="116" key="#JavaScript/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604328582488" />
+    <state x="473" y="303" key="#JavaScript_Additions" timestamp="1604327541931">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="473" y="303" key="#JavaScript_Additions/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604327541931" />
+    <state x="466" y="454" key="#Menus_and_Toolbars" timestamp="1604327948135">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="466" y="454" key="#Menus_and_Toolbars/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604327948135" />
+    <state x="547" y="657" key="#com.intellij.ide.util.TreeDirectoryChooserDialog" timestamp="1604327976080">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="547" y="657" key="#com.intellij.ide.util.TreeDirectoryChooserDialog/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604327976080" />
+    <state x="240" y="394" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604327281192">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="240" y="394" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604327281192" />
+    <state x="408" y="303" key="SettingsEditor" timestamp="1604330337953">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="408" y="303" key="SettingsEditor/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604330337953" />
+    <state x="305" y="335" width="670" height="676" key="search.everywhere.popup" timestamp="1604333591748">
+      <screen x="0" y="23" width="2560" height="1366" />
+    </state>
+    <state x="305" y="335" width="670" height="676" key="search.everywhere.popup/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1366@0.23.2560.1366" timestamp="1604333591748" />
+  </component>
+</project>
